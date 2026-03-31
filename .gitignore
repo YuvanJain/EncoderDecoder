@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Model Weights
+*.pt
+*.pth
+*.weights
+
+# Logs and Debug files
+*.log
+out*.txt
+debug*.txt
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific (optional, but good practice if you don't want to track secrets or custom local configs)
+# .streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db

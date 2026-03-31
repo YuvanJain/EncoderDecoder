@@ -1,0 +1,11 @@
+torch
+torchtext
+datasets
+streamlit
+pandas
+sacrebleu
+nltk
+torchvision
+tqdm
+transformers
+matplotlib
